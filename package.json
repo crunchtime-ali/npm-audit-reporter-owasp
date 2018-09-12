@@ -1,0 +1,27 @@
+{
+  "name": "npm-audit-reporter-owasp",
+  "version": "0.1.0",
+  "description": "Tool that converts npm audit json reports to owasp",
+  "main": "src/reporter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dj-hedgehog/npm-audit-reporter-owasp/"
+  },
+  "keywords": [
+    "nodesecurity",
+    "audit",
+    "owasp",
+    "reporter",
+    "cli",
+    "security"
+  ],
+  "author": "Alexander Zigelski <hedgehog@ali.dj>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/dj-hedgehog/npm-audit-reporter-owasp/issues"
+  },
+  "homepage": "https://github.com/dj-hedgehog/npm-audit-reporter-owasp#readme"
+}
